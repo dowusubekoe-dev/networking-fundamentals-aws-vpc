@@ -58,6 +58,7 @@ with Diagram("AWS VPC Architecture", show=False, graph_attr=graph_attr):
 
 [Network Architectural Diagram](./images/aws_vpc_architecture.png)
 
+
 **3. Run the Python script:**
 
 Execute the script to generate the diagram:
