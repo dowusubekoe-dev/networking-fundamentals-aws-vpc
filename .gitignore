@@ -1,0 +1,11 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+*.pem
+crash.log
+
+# AWS CLI credentials
+.aws/
+
