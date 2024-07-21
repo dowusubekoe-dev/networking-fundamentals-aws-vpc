@@ -56,6 +56,8 @@ with Diagram("AWS VPC Architecture", show=False, graph_attr=graph_attr):
 
 ```
 
+[Network Architectural Diagram](./images/aws_vpc_architecture.png)
+
 **3. Run the Python script:**
 
 Execute the script to generate the diagram:
@@ -68,6 +70,7 @@ Execute the script to generate the diagram:
 ## Step-by-Step Guide
 
 ### Explanation
+
 - VPC: A Virtual Private Cloud to host your resources.
 - Internet Gateway: Allows internet access to your VPC.
 - Public Subnet: A subnet within the VPC for hosting public resources.
