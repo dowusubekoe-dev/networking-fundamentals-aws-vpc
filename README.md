@@ -68,13 +68,13 @@ Execute the script to generate the diagram:
 ## Step-by-Step Guide
 
 ### Explanation
-    - VPC: A Virtual Private Cloud to host your resources.
-    - Internet Gateway: Allows internet access to your VPC.
-    - Public Subnet: A subnet within the VPC for hosting public resources.
-    - Route Table: Defines routing rules for the subnet.
-    - Network ACL (NACL): Adds an additional layer of security to control inbound and outbound traffic at the subnet level.
-    - Security Group: Defines firewall rules for the EC2 instance.
-    - EC2 Instance: A virtual server to run applications.
+- VPC: A Virtual Private Cloud to host your resources.
+- Internet Gateway: Allows internet access to your VPC.
+- Public Subnet: A subnet within the VPC for hosting public resources.
+- Route Table: Defines routing rules for the subnet.
+- Network ACL (NACL): Adds an additional layer of security to control inbound and outbound traffic atthe subnet level.
+- Security Group: Defines firewall rules for the EC2 instance.
+- EC2 Instance: A virtual server to run applications.
 
 Now, let's dive into the step-by-step guide to building the AWS infrastructure using Terraform.
 
