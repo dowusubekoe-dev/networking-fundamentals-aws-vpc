@@ -56,6 +56,8 @@ with Diagram("AWS VPC Architecture", show=False, graph_attr=graph_attr):
 
 ```
 
+### Final Architectural Design
+
 ![Network Architectural Diagram](./images/aws_vpc_architecture.png)
 
 
